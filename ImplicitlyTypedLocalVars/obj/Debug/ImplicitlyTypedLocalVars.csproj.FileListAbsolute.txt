@@ -1,0 +1,7 @@
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.exe.config
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.exe
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\ImplicitlyTypedLocalVars\bin\Debug\ImplicitlyTypedLocalVars.pdb
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.csproj.AssemblyReference.cache
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.csproj.CoreCompileInputs.cache
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.exe
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\ImplicitlyTypedLocalVars\obj\Debug\ImplicitlyTypedLocalVars.pdb

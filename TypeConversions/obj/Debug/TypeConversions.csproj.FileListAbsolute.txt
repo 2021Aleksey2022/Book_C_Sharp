@@ -1,0 +1,7 @@
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\TypeConversions\bin\Debug\TypeConversions.exe.config
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\TypeConversions\bin\Debug\TypeConversions.exe
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\TypeConversions\bin\Debug\TypeConversions.pdb
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\TypeConversions\obj\Debug\TypeConversions.csproj.AssemblyReference.cache
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\TypeConversions\obj\Debug\TypeConversions.csproj.CoreCompileInputs.cache
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\TypeConversions\obj\Debug\TypeConversions.exe
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\TypeConversions\obj\Debug\TypeConversions.pdb

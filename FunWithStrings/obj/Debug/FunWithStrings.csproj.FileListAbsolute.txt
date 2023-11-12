@@ -1,0 +1,7 @@
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\FunWithStrings\bin\Debug\FunWithStrings.exe
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\FunWithStrings\bin\Debug\FunWithStrings.pdb
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\FunWithStrings\obj\Debug\FunWithStrings.csproj.AssemblyReference.cache
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\FunWithStrings\obj\Debug\FunWithStrings.csproj.CoreCompileInputs.cache
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\FunWithStrings\obj\Debug\FunWithStrings.exe
+D:\Уроки по C#, по книжке\Глава_3\Chapter_3\FunWithStrings\obj\Debug\FunWithStrings.pdb
